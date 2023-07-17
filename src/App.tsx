@@ -1,6 +1,5 @@
-import { useState } from 'react';
-
-import { Cards } from './components/Cards/Cards';
+// import { Cards } from './components/Cards/Cards';
+import { TrelloCards } from './components/TrelloCards/TrelloCards';
 
 import { Container, Main } from './App.styled';
 
@@ -8,7 +7,8 @@ function App() {
   return (
     <Container>
       <Main>
-        <Cards />
+        <TrelloCards />
+        {/* <Cards /> */}
       </Main>
     </Container>
   );
