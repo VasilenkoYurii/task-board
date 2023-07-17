@@ -1,11 +1,5 @@
-export interface user {
-  name: string;
-  email: string;
-  password: string;
-}
-
-export interface selectUser {
+export interface todo {
   id: number;
-  name: string;
-  email: string;
+  order: number;
+  text: string;
 }
