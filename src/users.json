@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Nika",
+    "email": "nika.@email.com"
+  },
+  {
+    "id": 2,
+    "name": "John",
+    "email": "john@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Emma",
+    "email": "emma@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Alex",
+    "email": "alex@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Sophia",
+    "email": "sophia@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Daniel",
+    "email": "daniel@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Olivia",
+    "email": "olivia@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Michael",
+    "email": "michael@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Ava",
+    "email": "ava@example.com"
+  },
+  {
+    "id": 10,
+    "name": "William",
+    "email": "william@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Mia",
+    "email": "mia@example.com"
+  },
+  {
+    "id": 12,
+    "name": "James",
+    "email": "james@example.com"
+  },
+  {
+    "id": 13,
+    "name": "Charlotte",
+    "email": "charlotte@example.com"
+  },
+  {
+    "id": 14,
+    "name": "Benjamin",
+    "email": "benjamin@example.com"
+  },
+  {
+    "id": 15,
+    "name": "Amelia",
+    "email": "amelia@example.com"
+  },
+  {
+    "id": 16,
+    "name": "Henry",
+    "email": "henry@example.com"
+  },
+  {
+    "id": 17,
+    "name": "Ella",
+    "email": "ella@example.com"
+  },
+  {
+    "id": 18,
+    "name": "Alexander",
+    "email": "alexander@example.com"
+  },
+  {
+    "id": 19,
+    "name": "Sofia",
+    "email": "sofia@example.com"
+  },
+  {
+    "id": 20,
+    "name": "Joseph",
+    "email": "joseph@example.com"
+  }
+]
